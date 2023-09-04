@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span style="color: red">red</span>
+<span style="color:red"> red </span>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ChoiHaYoon&show_icons=true&hide_border=true)](https://github.com/ChoiHaYoon)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiHaYoon&layout=compact)](https://github.com/ChoiHaYoon)
