@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span style="color:red"> red </span>
-
 [![github stats](https://github-readme-stats.vercel.app/api?username=ChoiHaYoon&show_icons=true&hide_border=true)](https://github.com/ChoiHaYoon)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiHaYoon&layout=compact)](https://github.com/ChoiHaYoon)
 
@@ -27,3 +25,16 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 -->
+
+
+<span style="color:red"> 글씨색 변경 </span>
+<span style="color:yellow"> 글씨색 변경 </span>
+<span style="color:blue"> 글씨색 변경 </span>
+<span style="color:brown"> 글씨색 변경 </span>
+<span style="color:orange"> 글씨색 변경 </span>
+<span style="color:green"> 글씨색 변경 </span>
+<span style="color:violet"> 글씨색 변경 </span>
+<span style="color:yellowgreen"> 글씨색 변경 </span>
+<span style="color:blueviolet"> 글씨색 변경 </span>
+<span style="color:gray"> 글씨색 변경 </span>
+<span style="color:indigo"> 글씨색 변경 </span>
