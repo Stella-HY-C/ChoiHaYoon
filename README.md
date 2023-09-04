@@ -25,16 +25,3 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 -->
-
-
-<span style="color:red"> 글씨색 변경 </span>
-<span style="color:yellow"> 글씨색 변경 </span>
-<span style="color:blue"> 글씨색 변경 </span>
-<span style="color:brown"> 글씨색 변경 </span>
-<span style="color:orange"> 글씨색 변경 </span>
-<span style="color:green"> 글씨색 변경 </span>
-<span style="color:violet"> 글씨색 변경 </span>
-<span style="color:yellowgreen"> 글씨색 변경 </span>
-<span style="color:blueviolet"> 글씨색 변경 </span>
-<span style="color:gray"> 글씨색 변경 </span>
-<span style="color:indigo"> 글씨색 변경 </span>
