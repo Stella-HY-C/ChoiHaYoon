@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat&logo=Java&logoColor=white"/></a>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Stella-HY-C&show_icons=true&hide_border=true)](https://github.com/Stella-HY-C)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stella-HY-C&layout=compact)](https://github.com/Stella-HY-C)
