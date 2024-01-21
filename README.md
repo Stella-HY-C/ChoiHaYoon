@@ -18,8 +18,6 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=15&text=Welcome%20to%20HY's%20GitHub%20👋&desc=안녕하세요%20성장하는%20개발자%20최하윤입니다.&animation=twinkling&fontSize=40&fontAlignY=25&fontAlign=50&descAlign=65&descAlignY=45&height=180&stroke=ffffff)  <!-- radical, onedark &theme=onedark / timeGradient / customColorList : 0, 1, 6, 14, 15, 18, 20, 25, 27 -->
   
 </div>
-  
-<br>
 
 ## 💜My GitHub💜
 
