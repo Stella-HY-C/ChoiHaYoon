@@ -40,7 +40,7 @@
 ## 💻 Blog 💻
 <div style="display:flex; flex-direction:row;">
       <a href="https://velog.io/@alice1411">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white" style="align:left;"> 
+        <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white" style="align:left;"> 
       </a>
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=alice1411)](https://github.com/eungyeole/velog-readme-stats)
