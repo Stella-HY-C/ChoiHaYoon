@@ -25,10 +25,10 @@
 
 <div align="center">
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStella-HY-C&count_bg=%23FFB1B1&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStella-HY-C&count_bg=%23FFB1B1&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![HY's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stella-HY-C&show_icons=true&hide_border=true&theme=buefy) <!-- rose, buefy -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stella-HY-C&layout=compact)
+[![HY's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stella-HY-C&show_icons=true&hide_border=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) <!-- rose, buefy -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stella-HY-C&layout=compact&hide_border=true&theme=buefy)
 
 </div>
 
