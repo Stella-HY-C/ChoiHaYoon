@@ -19,7 +19,7 @@
   
 </div>
 
-## 💜My GitHub💜
+## 🐰 My GitHub 🐰
 
 <br>
 
@@ -63,7 +63,7 @@
     </a>
 </div><br>
     
-## 🔨 Tech stack 🔨
+## 🛠 Tech stack 🛠
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
